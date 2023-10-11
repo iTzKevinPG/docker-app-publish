@@ -6,7 +6,7 @@ Estos son los archivos bases de la app creada con docker que es solo un ejemplo,
 * 🎃Versionamiento (GIT) 
 * 🎨Docker
 * 📚Python
-* ☢Render
+* ☢Render / 💘 Railway
 
 ---
 ## Objetivo
