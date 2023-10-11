@@ -80,7 +80,7 @@ DATABASES = {
         'USER': os.environ.get('PG_USER', 'postgres'),
         'PASSWORD': os.environ.get('PG_PASSWORD', 'postgres'),
         'HOST': os.environ.get('PG_HOST','localhost'),
-        'PORT': os.environ.get('PG_PORT', '5433'),
+        'PORT': os.environ.get('PG_PORT', '5432'),
     }
 }
 
