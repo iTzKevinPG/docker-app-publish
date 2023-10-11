@@ -1,6 +1,6 @@
 #!/bin/bsh
 echo  "Create migration"
-python manage.py make migration app
+python manage.py makemigration app
 echo  "========"
 
 echo "Migrate"
